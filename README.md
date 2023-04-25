@@ -22,7 +22,7 @@ As the focus is on speed and functionality, our design is relatively simple to u
 
 There are four main features: Marketplace, Food, News and Weather. For our project, we focused mainly on the Marketplace, Food and News features, which were all impressive app-worthy features on their own. 
 
-For the front-end, it was designed entirely in Java under Android Studio. Lecture notes and reading resources from eDimension were referenced together with online documentation from Android Developers. Most of the concepts taught in class could be applied to our project, together with mobile UI/UX design inspiration taken from Dribbble, a site that showcases the World’s Top Design Portfolios. Additional concepts that were not taught in class, such as Fragments, Navigation Controller and variants of RecyclerView were picked up from Youtube Tutorials and reading the best app development practices through articles such as Medium. 
+For the front-end, it was designed entirely in Java under Android Studio. reading resources were referenced from Android Developers Website. Most of the concepts taught in our infomation systems class could be applied to our project, together with mobile UI/UX design inspiration taken from Dribbble, a site that showcases the World’s Top Design Portfolios. Additional concepts that were not taught in class, such as Fragments, Navigation Controller and variants of RecyclerView were picked up from Youtube Tutorials and reading the best app development practices through articles such as Medium. 
 
 For back-end, we referenced the documentation from Firebase, NewsAPI.org and Android Developers for our Realtime Database, NewsAPI endpoint setup and the Cloud Storage used to store and retrieve user details and images.
 
