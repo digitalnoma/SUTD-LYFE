@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8sp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4sp"
+    app:cardBackgroundColor="@color/white"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <ImageView
+            android:id="@+id/IVNews"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            ></ImageView>
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TVNewsHeading"
+            android:text="New Heading"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:padding="3sp"
+            android:maxLines="2"
+            android:layout_margin="3sp"
+            android:layout_below="@id/IVNews"
+            ></TextView>
+
+        <TextView
+            android:id="@+id/SubTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/TVNewsHeading"
+            android:layout_margin="3sp"
+            android:maxLines="3"
+            android:padding="3sp"
+            android:text="Sub Heading"
+            android:textColor="@color/grey_font"></TextView>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

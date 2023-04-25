@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">SUTDLYFE</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Welcome</string>
+    <string name="register">Register</string>
+    <string name="tweet">What is on your mind?</string>
+    <string name="postTweet">Post</string>
+    <string name="back">Back</string>
+    <string name="create_post">Create Post</string>
+    <string name="home">Home</string>
+    <string name="food">Food</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="events">Events</string>
+    <string name="product_name">Product Name</string>
+    <string name="seller_nickname">Seller Nickname</string>
+    <string name="price">Price</string>
+    <string name="weather">Weather</string>
+    <string name="news">Newsletter</string>
+
+    <string-array name="newsTitlesArray">
+        <item>testmarket1</item>
+        <item>testmarket2</item>
+        <item>testmarket3</item>
+        <item>testmarket4</item>
+        <item>testmarket5</item>
+        <item>testmarket6</item>
+        <item>testmarket7</item>
+        <item>testmarket8</item>
+        <item>testmarket9</item>
+        <item>testmarket10</item>
+        <item>testmarket11</item>
+        <item>testmarket12</item>
+        <item>testmarket13</item>
+        <item>testmarket14</item>
+        <item>testmarket15</item>
+        <item>testmarket16</item>
+        <item>testmarket17</item>
+        <item>testmarket18</item>
+        <item>testmarket19</item>
+        <item>testmarket20</item>
+    </string-array>
+    <string-array name="newsDateArray">
+        <item>date1</item>
+        <item>date2</item>
+        <item>date3</item>
+        <item>date4</item>
+        <item>date5</item>
+        <item>date6</item>
+        <item>date7</item>
+        <item>date8</item>
+        <item>date9</item>
+        <item>date10</item>
+        <item>date11</item>
+        <item>date12</item>
+        <item>date13</item>
+        <item>date14</item>
+        <item>date15</item>
+        <item>date16</item>
+        <item>date17</item>
+        <item>date18</item>
+        <item>date19</item>
+        <item>date20</item>
+    </string-array>
+
+</resources>
