@@ -1,9 +1,12 @@
-# SUTD-LYFE
+# SUTD LYFE
 An all-in-one collaborative ecosystem that streamlines communications amongst (SUTD) university students
 
 #### Authors: Marcus Ng Junhao & Patrick Mo 
-* [Marcus Ng - Full Stack Dev](https://www.linkedin.com/in/marcus-ng-0104e/)
-* [Patrick Mo - Full Stack Dev](https://www.linkedin.com/in/patrick-mo-11a456205/)
+* [Marcus Ng](https://www.linkedin.com/in/marcus-ng-0104e/)
+* [Patrick Mo](https://www.linkedin.com/in/patrick-mo-11a456205/)
+
+<img src="images/SUTDLYFE HOME.png" height="600">
+
 
 ## Table of Contents
 1. [WE THOUGHT IT THROUGH.](#introduction)
@@ -28,15 +31,18 @@ For back-end, we referenced the documentation from Firebase, NewsAPI.org and And
 
 ## AND WE BUILT IT. <a name="build"></a>
 
-[comment]: <> (add marketplace image)
+Login Page                 |  Registration Page		     |           Home
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="images/SUTDLYFE LOGIN.png" height="600"> |  <img src="images/SUTDLYFE REGISTER.png" height="600"> | <img src="images/SUTDLYFE HOME.png" height="600"> 
+
 
 The Marketplace feature will provide a platform for users to buy, sell, and share second-hand goods and equipment with other users within the hostel community. 
+
+<img src="images/marketplace.png" height="600">
 
 This feature will be beneficial for students who are on a tight budget, as it will provide an affordable way to acquire necessary items.
 
 To use this feature, users will be able to create posts and listings of the items they wish to sell, share or give away. The posts can include a description of the item, its condition, and the price (if applicable). Users will also be able to upload pictures of the item to give potential buyers a better idea of what they are purchasing.
-
-[comment]: <> (add food image)
 
 The Food feature will be a unique addition to our app, aimed at reducing food wastage and fostering a sense of community among hostel residents. This feature will allow users to share leftover food that has been catered for events such as meetings, conferences, or parties. Users will be able to post information about the food they have available, including the type of food, quantity, and location for pick-up.
 
@@ -44,8 +50,7 @@ In addition, the Food feature will also allow users to post a group food order. 
 
 ## THE DAILY SG KETCHUP. <a name="news"></a>
 
-
-[comment]: <> (add news image)
+<img src="images/Daily SG Ketchup.png" height="600">
 
 As for our Newsletter feature, we believe that all University students should have an all in one place to consume the news. In today’s day and age, it is increasingly important to read widely as it not only broadens our world view but also gives us the ability to critique a range of issues to make better decisions that will shape our future. Hence we would like to empower SUTD Students to be more initiative by providing them an easy to access, subscription-less and intuitive news service that will change the way we interact with the app on a daily basis.
 
