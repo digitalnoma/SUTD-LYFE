@@ -1,5 +1,5 @@
 # SUTD-LYFE
-all-in-one collaborative ecosystem that streamlines communications amongst (SUTD) university students
+An all-in-one collaborative ecosystem that streamlines communications amongst (SUTD) university students
 
 #### Collaborators: Marcus Ng Junhao & Patrick Mo 
 * [Marcus Ng - Full Stack Dev](https://www.linkedin.com/in/marcus-ng-0104e/)
@@ -8,9 +8,9 @@ all-in-one collaborative ecosystem that streamlines communications amongst (SUTD
 ## Table of Contents
 1. [WE THOUGHT IT THROUGH.](#introduction)
 2. [AND WE BUILT IT.](#build)
-3. [THE DAILY SG KETCHUP.] (#news)
-4. [SO WHERE ARE WE HEADED?] (#future)
-5. [CONCLUSION] (#end)
+3. [THE DAILY SG KETCHUP.](#news)
+4. [SO WHERE ARE WE HEADED?](#future)
+5. [CONCLUSION](#end)
 
 ## WE THOUGHT IT THROUGH. <a name="introduction"></a>
 
@@ -26,7 +26,7 @@ For the front-end, it was designed entirely in Java under Android Studio. Lectur
 
 For back-end, we referenced the documentation from Firebase, NewsAPI.org and Android Developers for our Realtime Database, NewsAPI endpoint setup and the Cloud Storage used to store and retrieve user details and images.
 
-## AND WE BUILT IT <a name="build"></a>
+## AND WE BUILT IT. <a name="build"></a>
 
 [comment]: <> (add marketplace image)
 
@@ -41,6 +41,9 @@ To use this feature, users will be able to create posts and listings of the item
 The Food feature will be a unique addition to our app, aimed at reducing food wastage and fostering a sense of community among hostel residents. This feature will allow users to share leftover food that has been catered for events such as meetings, conferences, or parties. Users will be able to post information about the food they have available, including the type of food, quantity, and location for pick-up.
 
 In addition, the Food feature will also allow users to post a group food order. This will be useful for students who may not want to bear the cost of delivery prices alone, but still want to order food for their meals. By sharing the food delivery order, they can split the cost of delivery and share it among those who are ordering together.
+
+## THE DAILY SG KETCHUP. <a name="news"></a>
+
 
 [comment]: <> (add news image)
 
