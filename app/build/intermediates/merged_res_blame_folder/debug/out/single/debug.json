@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxxhdpi_sutd_lyfe.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxxhdpi\\sutd_lyfe.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-hdpi_sutd_lyfe_logo.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-hdpi\\sutd_lyfe_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_yt_slider_test.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_yt_slider_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_wire.jpeg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\wire.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_sutd_community1.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\sutd_community1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-mdpi_sutd_lyfe_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-mdpi\\sutd_lyfe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_weather.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxxhdpi_sutd_lyfe_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxxhdpi\\sutd_lyfe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_gate.jpeg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\gate.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_raspberry_pi_4.jpeg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\raspberry_pi_4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_resistor.jpeg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\resistor.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-mdpi_sutd_lyfe_logo.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-mdpi\\sutd_lyfe_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_rounded_text.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\rounded_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_corsair_ddr4_64gb_ram.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\corsair_ddr4_64gb_ram.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxhdpi_sutd_lyfe_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxhdpi\\sutd_lyfe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_activity_news_details.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_news_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-anydpi-v26_sutd_lyfe.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-anydpi-v26\\sutd_lyfe.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxxhdpi_sutd_lyfe_logo.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxxhdpi\\sutd_lyfe_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-mdpi_sutd_lyfe.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-mdpi\\sutd_lyfe.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_registration.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xhdpi_sutd_lyfe_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xhdpi\\sutd_lyfe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_marketplace_custom_layout.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\marketplace_custom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_marketplace.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\marketplace.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_forum_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_forum_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_cercleshape.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\cercleshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_createdlisting.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_createdlisting.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_category_item.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_whatshot_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-anydpi-v26_sutd_lyfe_round.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-anydpi-v26\\sutd_lyfe_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_marketplace.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_marketplace.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_news_main.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_news_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_sutd_community3.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\sutd_community3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_cloudy.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_activity_web.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_listing.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_fastfood_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_arduino_led_matrix.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\arduino_led_matrix.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-hdpi_sutd_lyfe_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-hdpi\\sutd_lyfe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_corsair_rm650.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\corsair_rm650.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_news_item.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_header.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-hdpi_sutd_lyfe.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-hdpi\\sutd_lyfe.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxhdpi_sutd_lyfe_logo.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxhdpi\\sutd_lyfe_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_arduino_uno.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\arduino_uno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_noun_services_5586716.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\noun_services_5586716.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_sutd_campus.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\sutd_campus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_newspaper.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_hamburger.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xxhdpi_sutd_lyfe.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xxhdpi\\sutd_lyfe.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_sutd_lyfe_background.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\sutd_lyfe_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_food.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_background.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_weather_news.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\weather_news.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_food_recycler_view.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\food_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_tweet.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_tweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_sutd_community2.jpg.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\sutd_community2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_noun_market_1637656.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\noun_market_1637656.xml"
+    },
+    {
+        "merged": "com.example.hamburgermenu.app-merged_res-48:/layout_fragment_weather.xml.flat",
+        "source": "com.example.hamburgermenu.app-main-50:/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xhdpi_sutd_lyfe_logo.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xhdpi\\sutd_lyfe_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\mipmap-xhdpi_sutd_lyfe.png.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\mipmap-xhdpi\\sutd_lyfe.png"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\baseline_notifications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\drawable\\ic_launcher_background.xml"
+    }
+]

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="newsDateArray">
+        <item>date1</item>
+        <item>date2</item>
+        <item>date3</item>
+        <item>date4</item>
+        <item>date5</item>
+        <item>date6</item>
+        <item>date7</item>
+        <item>date8</item>
+        <item>date9</item>
+        <item>date10</item>
+        <item>date11</item>
+        <item>date12</item>
+        <item>date13</item>
+        <item>date14</item>
+        <item>date15</item>
+        <item>date16</item>
+        <item>date17</item>
+        <item>date18</item>
+        <item>date19</item>
+        <item>date20</item>
+    </string-array>
+    <string-array name="newsTitlesArray">
+        <item>testmarket1</item>
+        <item>testmarket2</item>
+        <item>testmarket3</item>
+        <item>testmarket4</item>
+        <item>testmarket5</item>
+        <item>testmarket6</item>
+        <item>testmarket7</item>
+        <item>testmarket8</item>
+        <item>testmarket9</item>
+        <item>testmarket10</item>
+        <item>testmarket11</item>
+        <item>testmarket12</item>
+        <item>testmarket13</item>
+        <item>testmarket14</item>
+        <item>testmarket15</item>
+        <item>testmarket16</item>
+        <item>testmarket17</item>
+        <item>testmarket18</item>
+        <item>testmarket19</item>
+        <item>testmarket20</item>
+    </string-array>
+    <color name="backgroundcolor">#FEFEF9</color>
+    <color name="beige">#F1E8CD</color>
+    <color name="black">#FF000000</color>
+    <color name="orange1">#F4845A</color>
+    <color name="orange2">#F0A747</color>
+    <color name="orange3">#FBCD7F</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="card_padding">10dp</dimen>
+    <dimen name="horizontal_spacing">10dp</dimen>
+    <item name="CreateMarketplaceListingFragment" type="id"/>
+    <string name="app_name">SUTDLYFE</string>
+    <string name="back">Back</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="create_post">Create Post</string>
+    <string name="default_web_client_id" translatable="false">728586172584-iad6m8pecrirddqoofnid4apcddtv5bn.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="events">Events</string>
+    <string name="food">Food</string>
+    <string name="gcm_defaultSenderId" translatable="false">728586172584</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjgWySoUvA1o713ThJcMmkaahl3I2-nI4</string>
+    <string name="google_app_id" translatable="false">1:728586172584:android:ed18353897bb5c49b66a9d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjgWySoUvA1o713ThJcMmkaahl3I2-nI4</string>
+    <string name="google_storage_bucket" translatable="false">sutd-lyfe-15801.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="news">Newsletter</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="password">Password</string>
+    <string name="postTweet">Post</string>
+    <string name="price">Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="project_id" translatable="false">sutd-lyfe-15801</string>
+    <string name="register">Register</string>
+    <string name="seller_nickname">Seller Nickname</string>
+    <string name="sign_in">Welcome</string>
+    <string name="tweet">What is on your mind?</string>
+    <string name="weather">Weather</string>
+    <style name="Theme.HamburgerMenu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/orange1</item>
+        <item name="colorPrimaryVariant">@color/orange1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/orange2</item>
+        <item name="colorSecondaryVariant">@color/orange2</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

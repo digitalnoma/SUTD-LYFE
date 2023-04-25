@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout8"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".start.RegistrationFragment"
+    android:gravity="center"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="124dp"
+        android:layout_height="111dp"
+        android:src="@mipmap/sutd_lyfe_round"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/regInputEmail"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_text"
+        android:ems="10"
+        android:hint="@string/email"
+        android:textAlignment="center"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo" />
+
+    <EditText
+        android:id="@+id/regInputPassword"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:background="@drawable/rounded_text"
+        android:ems="10"
+        android:hint="@string/password"
+        android:textAlignment="center"
+        android:inputType="textPassword"
+        android:layout_margin="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regInputEmail"
+        tools:ignore="TextFields" />
+
+    <EditText
+        android:id="@+id/regConfirmPassword"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:background="@drawable/rounded_text"
+        android:ems="10"
+        android:hint="Confirm Password"
+        android:layout_margin="5dp"
+        android:textAlignment="center"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regInputPassword"
+        tools:ignore="TextFields" />
+
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/round_button"
+        android:orientation="vertical"
+        android:padding="1.5dp">
+    <Button
+        android:id="@+id/registered"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/register"
+        android:textColor="@color/white"
+        android:background="#00000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regConfirmPassword" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

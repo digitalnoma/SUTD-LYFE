@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/beige"
+    tools:context=".food.TweetFragment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="4dp"
+        android:text="Listing Title"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/listing_title"
+        app:layout_constraintEnd_toEndOf="@+id/listing_title"
+        app:layout_constraintStart_toStartOf="@+id/listing_title"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.909"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="186dp"
+        android:layout_height="26dp"
+        android:layout_marginStart="20dp"
+        android:text="Add some pictures!"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/image_view"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/listing_title"
+        app:layout_constraintVertical_bias="0.769" />
+
+    <Button
+        android:id="@+id/btn_upload"
+        android:layout_width="63dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="140dp"
+        app:icon="@android:drawable/ic_menu_camera"
+        app:layout_constraintBottom_toTopOf="@+id/image_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.872"
+        app:layout_constraintStart_toEndOf="@+id/textView3"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="373dp"
+        android:layout_height="214dp"
+        android:layout_marginBottom="28dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/placeholder"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="40dp"
+        android:text="Where can the food be found?"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/listing_information"
+        app:layout_constraintEnd_toStartOf="@+id/postTweet"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/listing_information" />
+
+    <EditText
+        android:id="@+id/listing_information"
+        android:layout_width="372dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="500dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/listing_title"
+        android:layout_width="249dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginBottom="64dp"
+        android:background="@color/white"
+
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        app:layout_constraintBottom_toTopOf="@+id/image_view"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/backTweet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/back"
+        app:layout_constraintEnd_toStartOf="@+id/postTweet"
+        app:layout_constraintTop_toBottomOf="@+id/listing_information" />
+
+    <Button
+        android:id="@+id/postTweet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="28dp"
+        android:text="@string/postTweet"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/listing_information" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
