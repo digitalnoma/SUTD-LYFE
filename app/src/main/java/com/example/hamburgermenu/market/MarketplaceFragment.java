@@ -56,21 +56,6 @@ public class MarketplaceFragment extends Fragment {
 
 
         getDataFromFirebase(dataList);
-//        myRef.addValueEventListener(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(DataSnapshot dataSnapshot) {
-//                // Get the data as a string
-//                System.out.println("We are pulling data");
-//                String data = dataSnapshot.getValue(String.class);
-//                // Do something with the data
-//            }
-//
-//            @Override
-//            public void onCancelled(DatabaseError error) {
-//                // Handle errors
-//            }
-//        });
-
 
 
         return rootView;

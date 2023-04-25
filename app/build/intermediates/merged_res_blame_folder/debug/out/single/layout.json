@@ -1,82 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\news_item.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\news_item.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_listing.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_listing.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_food.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_food.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_weather.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_weather.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_createdlisting.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_createdlisting.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\marketplace_custom_layout.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\marketplace_custom_layout.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\marketplace_custom_layout.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\marketplace_custom_layout.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_registration.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_registration.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\category_item.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\category_item.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\activity_news_details.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_news_details.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\food_recycler_view.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\food_recycler_view.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\category_item.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\category_item.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_news_main.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_news_main.xml"
     },
     {
-        "merged": "com.example.hamburgermenu.app-mergeDebugResources-47:/layout/fragment_weather.xml",
-        "source": "com.example.hamburgermenu.app-main-50:/layout/fragment_weather.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_createdlisting.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_createdlisting.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\activity_web.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_web.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\activity_news_details.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_news_details.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_news_main.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_news_main.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_registration.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_registration.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_listing.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_listing.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_tweet.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_tweet.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_weather.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_weather.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_yt_slider_test.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_yt_slider_test.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_marketplace.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_marketplace.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_login.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_login.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_login.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_yt_slider_test.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_yt_slider_test.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\activity_web.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_web.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\header.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\header.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\header.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\header.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_food.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_food.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\food_recycler_view.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\food_recycler_view.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\news_item.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\news_item.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_tweet.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_tweet.xml"
+        "merged": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_marketplace.xml",
+        "source": "C:\\Users\\Patrick\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_marketplace.xml"
     },
     {
-        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-mergeDebugResources-47:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\marcu\\.gradle\\daemon\\7.5\\com.example.hamburgermenu.app-main-50:\\layout\\fragment_home.xml"
+        "merged": "com.example.hamburgermenu.app-mergeDebugResources-47:/layout/marketplace_custom_layout.xml",
+        "source": "com.example.hamburgermenu.app-main-50:/layout/marketplace_custom_layout.xml"
     }
 ]
