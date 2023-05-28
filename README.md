@@ -1,5 +1,5 @@
 # SUTD LYFE
-An all-in-one collaborative ecosystem that streamlines communications amongst (SUTD) university students
+An all-in-one collaborative ecosystem that streamlines communications and services amongst (SUTD) university students
 
 #### Author: Marcus Ng Junhao 
 #### Co-Author: Patrick Mo 
