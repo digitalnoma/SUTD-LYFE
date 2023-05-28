@@ -1,7 +1,8 @@
 # SUTD LYFE
 An all-in-one collaborative ecosystem that streamlines communications amongst (SUTD) university students
 
-#### Authors: Marcus Ng Junhao & Patrick Mo 
+#### Author: Marcus Ng Junhao 
+#### Co-Author: Patrick Mo 
 * [Marcus Ng](https://www.linkedin.com/in/marcus-ng-0104e/)
 * [Patrick Mo](https://www.linkedin.com/in/patrick-mo-11a456205/)
 
